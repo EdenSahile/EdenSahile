@@ -8,7 +8,7 @@
 # <div align="center">Bonjour 👋 je suis Eden Sahilé</div>  
   
 
-### <div align="center">🚀 Après une formation de développeur fullstack qui vient de se terminer, j'aimerais me spécialiser en front (ReactJS) dans un premier temps puis devenir fullstack dans un deuxième temps 🚀</div>  
+### <div align="center">🚀 Après une formation de développeur fullstack qui vient de se terminer, j'aimerais me spécialiser en front (ReactJS) dans un premier temps puis renforcer mes compétences en back  par la suite. 🚀</div>  
 
 <br>
 <div align="center">
