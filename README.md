@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src='https://github.com/EdenSahile/EdenSahile/blob/740ee0c8ec83af5eb607e1e9c263e4a694455128/img/profile-neworange.png' width="200px"/>
+<img src='https://github.com/EdenSahile/EdenSahile/blob/740ee0c8ec83af5eb607e1e9c263e4a694455128/img/profile-neworange.png' width="300px"/>
 <!--
 **EdenSahile/EdenSahile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
