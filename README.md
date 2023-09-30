@@ -31,8 +31,6 @@
 
 - 🤝 Je suis disponible **pour un poste de développeuse front-end ReactJS junior**  
   
-/**
-  
 
 - ❤️ J'aime **résoudre les problèmes** 
   
