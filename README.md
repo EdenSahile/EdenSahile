@@ -31,8 +31,7 @@
 
 - 🤝 Je suis disponible **pour un poste de développeuse front-end ReactJS junior**  
   
-
-- 👩‍💻 Tous mes projets sont disponibles sur mon site **http://edensahile.fr/**
+/**
   
 
 - ❤️ J'aime **résoudre les problèmes** 
