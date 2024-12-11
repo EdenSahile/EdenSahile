@@ -8,8 +8,10 @@
 # <div align="center">Bonjour 👋 je suis Eden Sahilé</div>  
   
 
-### <div align="center">🚀 Après une formation de développeur fullstack qui vient de se terminer, j'aimerais me spécialiser en front (ReactJS) dans un premier temps puis renforcer mes compétences en back  par la suite. 🚀</div>  
+<div align="left">🚀 Passionnée par le développement web, j’ai terminé une formation de développeur fullstack. Bien que je n'aie pas encore d'expérience professionnelle en tant que développeuse, je consacre mon temps libre à coder, notamment avec ReactJS, pour renforcer mes compétences techniques. 
 
+
+🚀 Actuellement Product Owner, j'utilise mon parcours de développeuse pour enrichir mes pratiques et mieux comprendre les enjeux techniques des projets que je pilote. Ma formation en développement et mon approche orientée solution sont des atouts qui m’aident à travailler de manière efficace avec les équipes de développement.
 <br>
 <div align="center">
   <a href="https://www.linkedin.com/in/eden-sahile-99b088112/" target="_blank">
@@ -26,16 +28,16 @@
 - 🔭 Je travaille actuellement sur **des projets personnels** 
   
 
-- 💼 Formation **Développeur fullstack, UX-UI design , marketing digital**
+- 💼 Formation **Développeur fullstack, UX-UI design , marketing digital, Product Owner**
   
 
-- 🤝 Je suis disponible **pour un poste de développeuse front-end ReactJS junior**  
+- 🤝 Je suis disponible **pour un poste de Product Owner**  
   
 
 - ❤️ J'aime **résoudre les problèmes** 
   
 
-- 📫 Comment me joindre ? **edensahile28@gmail.com**  
+- 📫 Comment me joindre ? **edensahile.pro@gmail.com**  
   
 
 <br/>  
