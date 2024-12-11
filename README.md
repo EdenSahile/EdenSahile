@@ -1,7 +1,7 @@
 
 
 <div align="center">
-<img src='https://github.com/EdenSahile/EdenSahile/blob/fe8ce745750634246eb89034827820dab1fe410f/img/profil.png' width="300px">
+<img src='https://github.com/EdenSahile/EdenSahile/blob/main/img/1729276544440.jpeg' width="300px">
   </div>
 
 
