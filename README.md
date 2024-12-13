@@ -8,10 +8,24 @@
 # <div align="center">Bonjour 👋 je suis Eden Sahilé</div>  
   
 
-<div align="left">🚀 Passionnée par le développement web, j’ai terminé une formation de développeur fullstack. Bien que je n'aie pas encore d'expérience professionnelle en tant que développeuse, je consacre mon temps libre à coder, notamment avec ReactJS, pour renforcer mes compétences techniques. 
+<div align="left">
+
+👩‍💻 Passionnée par le développement web, je suis animée par la création d'interfaces dynamiques et intuitives. Après avoir terminé une formation intensive de développeuse fullstack, j'ai choisi de devenir Product Owner afin de m'immerger dans l'univers du web et mieux comprendre les besoins des utilisateurs et les défis techniques.
+
+🌟 Mon ambition reste claire : devenir Développeuse front-end spécialisée en ReactJS, mon véritable métier de rêve. Bien que je n'aie pas encore d'expérience professionnelle en développement, je mets à profit mon temps libre pour coder, perfectionner mes compétences techniques et explorer les technologies modernes.
+
+🚀 Pourquoi Product Owner ?
+J'ai vu ce rôle comme un tremplin stratégique pour approfondir ma compréhension des projets web et collaborer avec des équipes de développeurs. Cette expérience me donne une perspective unique sur les attentes utilisateurs et les contraintes techniques.
+
+💻 Ce que je fais aujourd'hui :
+
+Développement de projets personnels sur GitHub avec ReactJS.
+Exploration des bonnes pratiques de front-end et des approches modernes (State Management, Responsive Design, etc.).
+Apprentissage continu pour consolider mes connaissances en JavaScript, React, et PostgreSQL.
 
 
-🚀 Actuellement Product Owner, j'utilise mon parcours de développeuse pour enrichir mes pratiques et mieux comprendre les enjeux techniques des projets que je pilote. Ma formation en développement et mon approche orientée solution sont des atouts qui m’aident à travailler de manière efficace avec les équipes de développement.
+✨ En quelques mots :
+Créative, curieuse, et déterminée, je crois fermement que l'apprentissage ne s'arrête jamais. Mon objectif ? Allier passion et expertise pour concevoir des interfaces qui font la différence.
 <br>
 <div align="center">
   <a href="https://www.linkedin.com/in/eden-sahile-99b088112/" target="_blank">
@@ -31,7 +45,7 @@
 - 💼 Formation **Développeur fullstack, UX-UI design , marketing digital, Product Owner**
   
 
-- 🤝 Je suis disponible **pour un poste de Product Owner**  
+- 🤝 Je suis disponible pour un poste de  **Développeuse front-end React JS**
   
 
 - ❤️ J'aime **résoudre les problèmes** 
