@@ -5,54 +5,93 @@
   </div>
 
 
-# <div align="center">Bonjour 👋 je suis Eden Sahilé</div>  
+# <div align="center">Bonjour 👋, je suis Eden Sahilé</div>  
+  
+✨ **Product Owner passionnée** par le développement web, j'allie vision produit et compréhension technique pour mener à bien des projets numériques centrés sur les utilisateurs.
+
+<br>
+
+💻  **Mon parcours hybride** m'offre une perspective unique :
+
+En tant que Product Owner, je traduis les besoins utilisateurs en solutions concrètes et adaptées.
+En tant que passionnée de développement web, je consacre mon temps libre à coder et explorer des technologies modernes comme ReactJS et Node.js.
+
+<br>
+
+📚 **Formation & Compétences Techniques** :
+J'ai suivi une formation intensive en développement fullstack, qui m'a permis d'acquérir des compétences solides en HTML/CSS, JavaScript, ReactJS, Node.js, et bien d'autres technologies. Cette expérience me permet aujourd'hui de mieux comprendre les contraintes techniques et de collaborer efficacement avec les équipes de développement.
+
+<br>
+
+🚀 Pourquoi cette **double compétence** ?
+Le rôle de Product Owner me permet d'avoir une vision globale des projets digitaux, tandis que ma passion pour le développement me donne une meilleure compréhension des contraintes techniques et des opportunités offertes par la technologie.
+
+<br>
+
+:bulb: En quelques mots :
+**Curieuse, organisée et orientée solution**, je m'investis pleinement pour offrir des produits de qualité et des **expériences utilisateurs optimales**.
+
+---
+
+
+🛠️ **Mes Compétences**
+
+<ins>Product Ownership</ins>
+
+* Rédaction de spécifications fonctionnelles & user stories
+* Gestion du backlog produit
+* Animation des daily meetings
+* Utilisation d'outils comme Jira, Figma et Trello
+* Wireframes et maquettes fonctionnelles
+* Compréhension des contraintes techniques et collaboration avec les équipes de développement
+  
+<ins>Compétences Techniques </ins> 
+
+* HTML/CSS
+* Javascript
+* Bootstrap
+* React JS
+* Node JS
+* API Restful
+* PostgreSQL
+*  Git & Github
+*  Figma
+*  Adobe XD
+*  Miro, Balsamiq, Lucidchart ...
+
+<br>
+
+---  
   
 
-<div align="left">
+- 🔭 **Projets personnels** : Je développe des interfaces interactives et intuitives en ReactJS sur mon temps libre, afin de maintenir et renforcer mes compétences techniques.
+  
 
-👩‍💻 Passionnée par le développement web, je suis animée par la création d'interfaces dynamiques et intuitives. Après avoir terminé une formation intensive de développeuse fullstack, j'ai choisi de devenir Product Owner afin de m'immerger dans l'univers du web et mieux comprendre les besoins des utilisateurs et les défis techniques.
+- 💼 **Formations** : Développeuse Fullstack | UX/UI Design | Marketing Digital | Product Owner — un parcours qui me permet d'avoir une vision globale et stratégique des projets digitaux.
+  
 
-🌟 Mon ambition reste claire : devenir Développeuse front-end spécialisée en ReactJS, mon véritable métier de rêve. Bien que je n'aie pas encore d'expérience professionnelle en développement, je mets à profit mon temps libre pour coder, perfectionner mes compétences techniques et explorer les technologies modernes.
+- 🤝 🤝 **Double compétence** : Grâce à mon expérience hybride, je sais dialoguer avec les équipes techniques et traduire les besoins métiers en solutions concrètes.
+  
 
-🚀 Pourquoi Product Owner ?
-J'ai vu ce rôle comme un tremplin stratégique pour approfondir ma compréhension des projets web et collaborer avec des équipes de développeurs. Cette expérience me donne une perspective unique sur les attentes utilisateurs et les contraintes techniques.
+- ❤️ **Ce qui m'anime** : Résoudre des problèmes complexes, améliorer continuellement les produits, et placer l'utilisateur au cœur des décisions.
+  <br>
 
-💻 Ce que je fais aujourd'hui :
+  ---  
 
-Développement de projets personnels sur GitHub avec ReactJS.
-Exploration des bonnes pratiques de front-end et des approches modernes (State Management, Responsive Design, etc.).
-Apprentissage continu pour consolider mes connaissances en JavaScript, React, et PostgreSQL.
+<p align="center">📫 Comment me joindre ?</p>
+<p align="center"><a href="mailto:edensahile.pro@gmail.com">edensahile.pro@gmail.com</a></p>
 
 
-✨ En quelques mots :
-Créative, curieuse, et déterminée, je crois fermement que l'apprentissage ne s'arrête jamais. Mon objectif ? Allier passion et expertise pour concevoir des interfaces qui font la différence.
+  <div align="center">
 <br>
-<div align="center">
+
   <a href="https://www.linkedin.com/in/eden-sahile-99b088112/" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;"/>
   </a>
   <a href="https://www.instagram.com/edensahile/" target="_blank">
   <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;"/>
 </a>  
-</div>  
-
-<br>
-  
-
-- 🔭 Je travaille actuellement sur **des projets personnels** 
-  
-
-- 💼 Formation **Développeur fullstack, UX-UI design , marketing digital, Product Owner**
-  
-
-- 🤝 Je suis disponible pour un poste de  **Développeuse front-end React JS**
-  
-
-- ❤️ J'aime **résoudre les problèmes** 
-  
-
-- 📫 Comment me joindre ? **edensahile.pro@gmail.com**  
-  
+</div> 
 
 <br/>  
 
