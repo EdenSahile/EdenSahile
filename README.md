@@ -53,7 +53,7 @@ Parce-que ce qui me passionne, c’est le sens produit, la collaboration avec le
   
 
 
-- ### ❤️ Ce qui m'anime** :
+- ### ❤️ Ce qui m'anime :
 - Résoudre des problèmes complexes, améliorer continuellement les produits, et placer l'utilisateur au cœur des décisions.
   <br>
 
