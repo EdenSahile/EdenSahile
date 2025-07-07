@@ -27,7 +27,8 @@ Parce-que ce qui me passionne, c’est le sens produit, la collaboration avec le
 ---
 
 
-🛠️ ### Mes Compétences
+#### 🛠️ Mes compétences
+
 
 #### 🎯 Product Ownership & Agilité
 
