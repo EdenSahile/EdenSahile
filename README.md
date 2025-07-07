@@ -27,30 +27,23 @@ Parce-que ce qui me passionne, c’est le sens produit, la collaboration avec le
 
 🛠️ **Mes Compétences**
 
-<ins>Product Ownership</ins>
+### 🎯 Product Ownership & Agilité
 
-* Scrum
-* Rédaction de spécifications fonctionnelles & user stories
-* Gestion du backlog produit
-* Animation des daily meetings
-* Utilisation d'outils comme Jira, Figma et Trello
-* Wireframes et maquettes fonctionnelles
-* Compréhension des contraintes techniques et collaboration avec les équipes de développement
-  
-<ins>Compétences Techniques </ins> 
+- Méthodologies : Scrum (Daily meetings, Sprint planning), Kanban
+- Rédaction de spécifications fonctionnelles & user stories (utilisatrice finale / métiers)
+- Gestion de backlog produit et priorisation orientée valeur
+- Collaboration inter-équipes (développement, design, métier)
+- Tests utilisateurs, recette fonctionnelle et validation de livrables
+- Conception de wireframes et maquettes fonctionnelles (Figma, Balsamiq, Miro)
+- Outils : Jira, Trello, Notion, Lucidchart
 
-* HTML/CSS
-* Javascript
-* Bootstrap
-* React JS
-* Node JS
-* API Restful
-* PostgreSQL
-* Git & Github
-* Figma
-* Adobe XD
-* Miro, Balsamiq, Lucidchart ...
+### 💻 Compétences Techniques
 
+- Langages & Front : HTML, CSS, JavaScript, Bootstrap, React.js
+- Back-end : Node.js, API RESTful
+- Base de données : PostgreSQL
+- Outils de versioning : Git, GitHub
+- Design & Prototypage : Figma, Adobe XD, Balsamiq
 <br>
 
 ---  
