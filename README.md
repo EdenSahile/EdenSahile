@@ -49,16 +49,9 @@ Parce-que ce qui me passionne, c’est le sens produit, la collaboration avec le
 ---  
   
 
-- 🔭 **Projets personnels** : Je développe des interfaces interactives et intuitives en ReactJS sur mon temps libre, afin de maintenir et renforcer mes compétences techniques.
-  
 
-- 💼 **Formations** : Développeuse Fullstack | UX/UI Design | Marketing Digital | Product Owner — un parcours qui me permet d'avoir une vision globale et stratégique des projets digitaux.
-  
-
-- 🤝 🤝 **Double compétence** : Grâce à mon expérience hybride, je sais dialoguer avec les équipes techniques et traduire les besoins métiers en solutions concrètes.
-  
-
-- ❤️ **Ce qui m'anime** : Résoudre des problèmes complexes, améliorer continuellement les produits, et placer l'utilisateur au cœur des décisions.
+- ❤️ **Ce qui m'anime** :
+- Résoudre des problèmes complexes, améliorer continuellement les produits, et placer l'utilisateur au cœur des décisions.
   <br>
 
   ---  
