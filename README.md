@@ -7,24 +7,16 @@
 
 # <div align="center">Bonjour 👋, je suis Eden Sahilé</div>  
   
-✨ **Product Owner passionnée** par le développement web, j'allie vision produit et compréhension technique pour mener à bien des projets numériques centrés sur les utilisateurs.
-
+✨ **Product Owner avec une forte sensibilité technique, je conçois des produits numériques centrés utilisateurs en m’appuyant sur une double compétence : vision produit et compréhension des enjeux techniques.
 <br>
 
-💻  **Mon parcours hybride** m'offre une perspective unique :
-
-En tant que Product Owner, je traduis les besoins utilisateurs en solutions concrètes et adaptées.
-En tant que passionnée de développement web, je consacre mon temps libre à coder et explorer des technologies modernes comme ReactJS et Node.js.
-
+💻  Issue d’une formation intensive en développement fullstack (React, Node, API...), j’ai acquis une connaissance concrète du code que je mobilise pour communiquer efficacement avec les développeurs, anticiper les contraintes, et challenger les solutions.
 <br>
 
-📚 **Formation & Compétences Techniques** :
-J'ai suivi une formation intensive en développement fullstack, qui m'a permis d'acquérir des compétences solides en HTML/CSS, JavaScript, ReactJS, Node.js, et bien d'autres technologies. Cette expérience me permet aujourd'hui de mieux comprendre les contraintes techniques et de collaborer efficacement avec les équipes de développement.
+🚀 **Pourquoi ne pas être développeuse ?
+Parce que ce qui me passionne, c’est le sens produit, la collaboration avec les parties prenantes, et la recherche de valeur pour l’utilisateur. Mon bagage tech me rend plus pertinente dans ce rôle, et plus autonome dans les phases de spécifications, tests et suivi de qualité.
 
-<br>
-
-🚀 Pourquoi cette **double compétence** ?
-Le rôle de Product Owner me permet d'avoir une vision globale des projets digitaux, tandis que ma passion pour le développement me donne une meilleure compréhension des contraintes techniques et des opportunités offertes par la technologie.
+🎯 En résumé : je suis une PO orientée utilisateur, à l’aise avec les enjeux techniques, capable de faire le lien entre besoins métiers et solutions concrètes.
 
 <br>
 
@@ -38,6 +30,7 @@ Le rôle de Product Owner me permet d'avoir une vision globale des projets digit
 
 <ins>Product Ownership</ins>
 
+* Scrum
 * Rédaction de spécifications fonctionnelles & user stories
 * Gestion du backlog produit
 * Animation des daily meetings
@@ -54,10 +47,10 @@ Le rôle de Product Owner me permet d'avoir une vision globale des projets digit
 * Node JS
 * API Restful
 * PostgreSQL
-*  Git & Github
-*  Figma
-*  Adobe XD
-*  Miro, Balsamiq, Lucidchart ...
+* Git & Github
+* Figma
+* Adobe XD
+* Miro, Balsamiq, Lucidchart ...
 
 <br>
 
