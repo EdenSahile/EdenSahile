@@ -6,6 +6,8 @@
 
 
 # <div align="center">Bonjour 👋, je suis Eden Sahilé</div>  
+
+### 🎯 Qui suis-je ?
   
 ✨ **Product Owner** avec une forte sensibilité technique, je conçois des produits numériques centrés utilisateurs en m’appuyant sur une double compétence : vision produit et compréhension des enjeux techniques.
 <br>
@@ -25,9 +27,9 @@ Parce-que ce qui me passionne, c’est le sens produit, la collaboration avec le
 ---
 
 
-🛠️ **Mes Compétences**
+🛠️ ### Mes Compétences
 
-### 🎯 Product Ownership & Agilité
+#### 🎯 Product Ownership & Agilité
 
 - Méthodologies : Scrum (Daily meetings, Sprint planning), Kanban
 - Rédaction de spécifications fonctionnelles & user stories (utilisatrice finale / métiers)
@@ -37,7 +39,7 @@ Parce-que ce qui me passionne, c’est le sens produit, la collaboration avec le
 - Conception de wireframes et maquettes fonctionnelles (Figma, Balsamiq, Miro)
 - Outils : Jira, Trello, Notion, Lucidchart
 
-### 💻 Compétences Techniques
+#### 💻 Compétences Techniques
 
 - Langages & Front : HTML, CSS, JavaScript, Bootstrap, React.js
 - Back-end : Node.js, API RESTful
@@ -50,7 +52,7 @@ Parce-que ce qui me passionne, c’est le sens produit, la collaboration avec le
   
 
 
-- ❤️ **Ce qui m'anime** :
+- ### ❤️ Ce qui m'anime** :
 - Résoudre des problèmes complexes, améliorer continuellement les produits, et placer l'utilisateur au cœur des décisions.
   <br>
 
