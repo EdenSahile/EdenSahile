@@ -14,7 +14,7 @@
 <br>
 
 🚀 **Pourquoi ne pas être développeuse ?**
-Parce que ce qui me passionne, c’est le sens produit, la collaboration avec les parties prenantes, et la recherche de valeur pour l’utilisateur. Mon bagage tech me rend plus pertinente dans ce rôle, et plus autonome dans les phases de spécifications, tests et suivi de qualité.
+Parce-que ce qui me passionne, c’est le sens produit, la collaboration avec les parties prenantes, et la recherche de valeur pour l’utilisateur. Mon bagage tech me rend plus pertinente dans ce rôle, et plus autonome dans les phases de spécifications, tests et suivi de qualité.
 
 🎯 En résumé : je suis une PO orientée utilisateur, à l’aise avec les enjeux techniques, capable de faire le lien entre besoins métiers et solutions concrètes.
 <br>
