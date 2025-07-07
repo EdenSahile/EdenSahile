@@ -7,13 +7,13 @@
 
 # <div align="center">Bonjour 👋, je suis Eden Sahilé</div>  
   
-✨ **Product Owner avec une forte sensibilité technique, je conçois des produits numériques centrés utilisateurs en m’appuyant sur une double compétence : vision produit et compréhension des enjeux techniques.
+✨ **Product Owner** avec une forte sensibilité technique, je conçois des produits numériques centrés utilisateurs en m’appuyant sur une double compétence : vision produit et compréhension des enjeux techniques.
 <br>
 
 💻  Issue d’une formation intensive en développement fullstack (React, Node, API...), j’ai acquis une connaissance concrète du code que je mobilise pour communiquer efficacement avec les développeurs, anticiper les contraintes, et challenger les solutions.
 <br>
 
-🚀 **Pourquoi ne pas être développeuse ?
+🚀 **Pourquoi ne pas être développeuse ?**
 Parce que ce qui me passionne, c’est le sens produit, la collaboration avec les parties prenantes, et la recherche de valeur pour l’utilisateur. Mon bagage tech me rend plus pertinente dans ce rôle, et plus autonome dans les phases de spécifications, tests et suivi de qualité.
 
 🎯 En résumé : je suis une PO orientée utilisateur, à l’aise avec les enjeux techniques, capable de faire le lien entre besoins métiers et solutions concrètes.
