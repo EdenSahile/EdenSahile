@@ -9,16 +9,14 @@
 
 ### 🎯 Qui suis-je ?
   
-✨ **Product Owner** avec une forte sensibilité technique, je conçois des produits numériques centrés utilisateurs en m’appuyant sur une double compétence : vision produit et compréhension des enjeux techniques.
+✨ **Product Owner** Product Owner avec un profil atypique : après 25 ans d'expérience , j'ai opéré une reconversion vers le numérique guidée par ma passion pour les produits digitaux.
 <br>
 
-💻  Issue d’une formation intensive en développement fullstack (React, Node, API...), j’ai acquis une connaissance concrète du code que je mobilise pour communiquer efficacement avec les développeurs, anticiper les contraintes, et challenger les solutions.
+💻  Formée au développement fullstack (React, Node.js, API REST), j'ai acquis une compréhension concrète du code qui me permet de communiquer efficacement avec les développeurs, anticiper les contraintes techniques, et challenger les solutions proposées.
 <br>
 
-🚀 **Pourquoi ne pas être développeuse ?**
-Parce que ce qui me passionne, c’est le sens produit, la collaboration avec les parties prenantes, et la recherche de valeur pour l’utilisateur. Mon bagage tech me rend plus pertinente dans ce rôle, et plus autonome dans les phases de spécifications, tests et suivi de qualité.
-
-🎯 En résumé : je suis une PO orientée utilisateur, à l’aise avec les enjeux techniques, capable de faire le lien entre besoins métiers et solutions concrètes.
+### 🚀 Pourquoi PO et pas développeuse  ?
+Parce que ce qui me passionne, c'est le sens produit, la collaboration avec les parties prenantes, et la recherche de valeur pour l'utilisateur. Mon bagage technique me rend plus pertinente dans ce rôle de pont entre métier et tech.
 <br>
 
 :bulb: En quelques mots :
@@ -48,6 +46,11 @@ Parce que ce qui me passionne, c’est le sens produit, la collaboration avec le
 - Outils de versioning : Git, GitHub
 - Design & Prototypage : Figma, Adobe XD, Balsamiq
 <br>
+
+#### 🤖 Automatisation & IA
+- Outils : Make, n8n, Zapier
+- Exploration active de l'IA pour optimiser les flux de travail
+- Veille technologique sur l'IA et son application aux produits digitaux
 
 ---  
   
