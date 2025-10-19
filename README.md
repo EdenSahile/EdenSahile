@@ -45,13 +45,12 @@ Parce que ce qui me passionne, c'est le sens produit, la collaboration avec les 
 - Base de données : PostgreSQL
 - Outils de versioning : Git, GitHub
 - Design & Prototypage : Figma, Adobe XD, Balsamiq
-<br>
 
 #### 🤖 Automatisation & IA
 - Outils : Make, n8n, Zapier
 - Exploration active de l'IA pour optimiser les flux de travail
 - Veille technologique sur l'IA et son application aux produits digitaux
-
+<br>
 ---  
   
 
