@@ -9,7 +9,7 @@
 
 ### 🎯 Qui suis-je ?
   
-✨ **Product Owner** Product Owner avec un profil atypique : après 25 ans d'expérience , j'ai opéré une reconversion vers le numérique guidée par ma passion pour les produits digitaux.
+✨ **Product Owner** avec un profil atypique : après 25 ans d'expérience , j'ai opéré une reconversion vers le numérique guidée par ma passion pour les produits digitaux.
 <br>
 
 💻  Formée au développement fullstack (React, Node.js, API REST), j'ai acquis une compréhension concrète du code qui me permet de communiquer efficacement avec les développeurs, anticiper les contraintes techniques, et challenger les solutions proposées.
