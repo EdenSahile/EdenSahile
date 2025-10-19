@@ -5,7 +5,7 @@
   </div>
 
 
-# <div align="center">Bonjour 👋, je suis Eden Sahilé</div>  
+# <div align="center">Bonjour 👋, je suis Eden </div>  
 
 ### 🎯 Qui suis-je ?
   
