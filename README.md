@@ -22,6 +22,7 @@ Mon bagage technique me rend plus pertinente dans ce rôle de **pont entre méti
 
 💡 **En quelques mots :** 
 Curieuse, organisée et orientée solution, je m'investis pleinement pour offrir des produits de qualité et des expériences utilisateurs optimales.
+
 ---
 
 
