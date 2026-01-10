@@ -20,8 +20,8 @@ contraintes techniques, et challenger les solutions proposées.
 Parce que ce qui me passionne, c'est **le sens produit**, la collaboration avec les parties prenantes, et la recherche de valeur pour l'utilisateur. 
 Mon bagage technique me rend plus pertinente dans ce rôle de **pont entre métier et tech**.
 
-💡 **En quelques mots :** Curieuse, organisée et orientée solution, je 
-m'investis pleinement pour offrir des produits de qualité et des expériences utilisateurs optimales.
+💡 **En quelques mots :** 
+Curieuse, organisée et orientée solution, je m'investis pleinement pour offrir des produits de qualité et des expériences utilisateurs optimales.
 ---
 
 
