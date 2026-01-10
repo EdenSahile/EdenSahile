@@ -7,21 +7,21 @@
 
 # <div align="center">Bonjour 👋, je suis Eden </div>  
 
-### 🎯 Qui suis-je ?
+### 👋 Qui suis-je ?
   
-✨ **Product Owner** avec un profil atypique : après 25 ans d'expérience , j'ai opéré une reconversion vers le numérique guidée par ma passion pour les produits digitaux.
+✨ **Product Owner** ✨ technique avec un parcours évolutif : issue du secteur de l'édition (20+ ans), je me suis formée au développement fullstack (React, Node.js, API REST) pour devenir Product Owner.
 <br>
 
-💻  Formée au développement fullstack (React, Node.js, API REST), j'ai acquis une compréhension concrète du code qui me permet de communiquer efficacement avec les développeurs, anticiper les contraintes techniques, et challenger les solutions proposées.
+💻  Cette formation m'a donné une compréhension concrète du code qui me permet de communiquer efficacement avec les développeurs, anticiper les 
+contraintes techniques, et challenger les solutions proposées.
 <br>
 
 ### 🚀 Pourquoi PO et pas développeuse  ?
-Parce que ce qui me passionne, c'est le sens produit, la collaboration avec les parties prenantes, et la recherche de valeur pour l'utilisateur. Mon bagage technique me rend plus pertinente dans ce rôle de pont entre métier et tech.
-<br>
+Parce que ce qui me passionne, c'est **le sens produit**, la collaboration avec les parties prenantes, et la recherche de valeur pour l'utilisateur. 
+Mon bagage technique me rend plus pertinente dans ce rôle de **pont entre métier et tech**.
 
-:bulb: En quelques mots :
-**Curieuse, organisée et orientée solution**, je m'investis pleinement pour offrir des produits de qualité et des **expériences utilisateurs optimales**.
-
+💡 **En quelques mots :** Curieuse, organisée et orientée solution, je 
+m'investis pleinement pour offrir des produits de qualité et des expériences utilisateurs optimales.
 ---
 
 
@@ -30,38 +30,36 @@ Parce que ce qui me passionne, c'est le sens produit, la collaboration avec les 
 
 #### 🎯 Product Ownership & Agilité
 
-- Méthodologies : Scrum (Daily meetings, Sprint planning), Kanban
-- Rédaction de spécifications fonctionnelles & user stories
-- Gestion de backlog produit et priorisation orientée valeur
-- Collaboration inter-équipes (développement, design, métier)
-- Tests utilisateurs, recette fonctionnelle et validation de livrables
-- Conception de wireframes et maquettes fonctionnelles (Figma, Balsamiq, Miro)
-- Outils : Jira, Trello, Notion, Lucidchart
+- **Méthodologies :** Scrum (certifiée), Kanban
+- **Gestion produit :** User stories, backlog, priorisation valeur business
+- **Recette & qualité :** Tests fonctionnels, validation livrables
+- **UX :** Wireframes, prototypes (Figma, Balsamiq, Miro)
+- **Outils :** Jira, Trello, Notion, Linear, Lucidchart
 
 #### 💻 Compétences Techniques
 
-- Langages & Front : HTML, CSS, JavaScript, Bootstrap, React.js
-- Back-end : Node.js, API RESTful
-- Base de données : PostgreSQL
-- Outils de versioning : Git, GitHub
-- Design & Prototypage : Figma, Adobe XD, Balsamiq
+- **Frontend :** HTML, CSS, JavaScript, React.js, ViteJS, styled-components
+- **Backend :** Node.js, API REST, PostgreSQL
+- **Versioning :** Git, GitHub
+- **Design :** Figma, Adobe XD, Balsamiq
 
 #### 🤖 Automatisation & IA
-- Outils : Make, n8n, Zapier
+- **Outils :** Make, n8n, Zapier
 - Exploration active de l'IA pour optimiser les flux de travail
 - Veille technologique sur l'IA et son application aux produits digitaux
+
 <br>
 ---  
   
 
 
-### ❤️ Ce qui m'anime :
+### 💡 Ce qui m'anime :
 Résoudre des problèmes complexes, améliorer continuellement les produits, et placer l'utilisateur au cœur des décisions.
   <br>
 
   ---  
 
-<p align="center">📫 Comment me joindre ?</p>
+<p align="center">📫 Me contacter</p>
 <p align="center"><a href="mailto:edensahile.pro@gmail.com">edensahile.pro@gmail.com</a></p>
 
 
