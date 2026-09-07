@@ -9,54 +9,49 @@
 
 ### 👋 Qui suis-je ?
   
-✨ **Product Owner** ✨ technique avec un parcours évolutif : issue du secteur de l'édition (20+ ans), je me suis formée au développement fullstack (React, Node.js, API REST) pour devenir Product Owner.
-<br>
-
-💻  Cette formation m'a donné une compréhension concrète du code qui me permet de communiquer efficacement avec les développeurs, anticiper les 
-contraintes techniques, et challenger les solutions proposées.
-<br>
-
-### 🚀 Pourquoi PO et pas développeuse  ?
-Parce que ce qui me passionne, c'est **le sens produit**, la collaboration avec les parties prenantes, et la recherche de valeur pour l'utilisateur. 
-Mon bagage technique me rend plus pertinente dans ce rôle de **pont entre métier et tech**.
-
-💡 **En quelques mots :** 
-Curieuse, organisée et orientée solution, je m'investis pleinement pour offrir des produits de qualité et des expériences utilisateurs optimales.
+✨ Product Owner ✨ technique, avec un parcours qui a évolué au fil des opportunités : partie du secteur de l'édition, je me suis progressivement dirigée vers le digital et l'UX, puis formée au développement fullstack (React, Node.js, API REST) pour devenir Product Owner.
+ 
+💻 Cette formation m'a donné une compréhension concrète du code qui me permet de communiquer efficacement avec les développeurs, anticiper les contraintes techniques, et challenger les solutions proposées.
+ 
+🤖 Plus récemment, j'explore l'IA générative par la pratique : je conçois et construis des outils intégrant des LLM, du RAG et des workflows d'automatisation, avec l'objectif d'évoluer vers des produits où l'IA crée une vraie valeur métier.
+ 
+## 🚀 Pourquoi PO et pas développeuse ?
+ 
+Parce que ce qui me passionne, c'est le sens produit, la collaboration avec les parties prenantes, et la recherche de valeur pour l'utilisateur. Mon bagage technique me rend plus pertinente dans ce rôle de pont entre métier et tech.
+ 
+💡 **En quelques mots :** Curieuse, organisée et orientée solution, je m'investis pleinement pour offrir des produits de qualité et des expériences utilisateurs optimales.
+ 
+## 🛠️ Mes compétences
+ 
+### 🎯 Product Ownership & Agilité
+ 
+* Méthodologies : Scrum (certifiée), Kanban
+* Gestion produit : User stories, backlog, priorisation valeur business
+* Recette & qualité : Tests fonctionnels, validation livrables
+* UX : Wireframes, prototypes (Figma, Balsamiq, Miro)
+* Outils : Jira, Trello, Notion, Linear, Lucidchart
+### 💻 Compétences techniques
+ 
+* Frontend : HTML, CSS, JavaScript, React.js, ViteJS, styled-components
+* Backend : Node.js, API REST, PostgreSQL
+* Versioning : Git, GitHub
+* Design : Figma, Adobe XD, Balsamiq
+### 🤖 Automatisation & IA
+ 
+* Outils : Make, n8n, Zapier, Claude (API, Code)
+* Construction de produits IA : LLM, RAG, génération structurée, workflows d'automatisation
+* Veille technologique sur l'IA et son application aux produits digitaux
+### 🚀 Projets IA
+ 
+* **StoryPilot AI** : outil qui transforme un brief métier en user stories contextualisées, avec critères d'acceptation et scénarios Gherkin, à partir d'une base de connaissances (LLM, RAG). [github.com/EdenSahile/StoryPilot-ai](https://github.com/EdenSahile/StoryPilot-ai)
+* **Maison Buna** : application B2B de génération de devis pour un torréfacteur de café, avec génération de documents et automatisations. [github.com/EdenSahile/maison-buna-demo](https://github.com/EdenSahile/maison-buna-demo)
 
 ---
 
 
-### 🛠️ Mes compétences
-
-
-#### 🎯 Product Ownership & Agilité
-
-- **Méthodologies :** Scrum (certifiée), Kanban
-- **Gestion produit :** User stories, backlog, priorisation valeur business
-- **Recette & qualité :** Tests fonctionnels, validation livrables
-- **UX :** Wireframes, prototypes (Figma, Balsamiq, Miro)
-- **Outils :** Jira, Trello, Notion, Linear, Lucidchart
-
-#### 💻 Compétences Techniques
-
-- **Frontend :** HTML, CSS, JavaScript, React.js, ViteJS, styled-components
-- **Backend :** Node.js, API REST, PostgreSQL
-- **Versioning :** Git, GitHub
-- **Design :** Figma, Adobe XD, Balsamiq
-
-#### 🤖 Automatisation & IA
-- **Outils :** Make, n8n, Zapier
-- Exploration active de l'IA pour optimiser les flux de travail
-- Veille technologique sur l'IA et son application aux produits digitaux
-
-<br>
----  
-  
-
-
 ### 💡 Ce qui m'anime :
 Résoudre des problèmes complexes, améliorer continuellement les produits, et placer l'utilisateur au cœur des décisions.
-  <br>
+<br>
 
   ---  
 
