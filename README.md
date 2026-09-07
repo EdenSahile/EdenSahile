@@ -127,9 +127,3 @@ Résoudre des problèmes complexes, améliorer continuellement les produits, et 
 
 <br/>  
 
-
-## Github Stats  
-<div align='center'>
- <img src="https://github-readme-stats.vercel.app/api?username=edensahile&show_icons=true&count_private=true&hide_border=true"  >
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edensahile&hide_border=true&layout=compact" />  
-</div>
