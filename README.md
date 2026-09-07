@@ -7,7 +7,7 @@
 
 # <div align="center">Bonjour 👋, je suis Eden </div>  
 
-### 👋 Qui suis-je ?
+### Qui suis-je ?
   
 ✨ Product Owner ✨ technique, avec un parcours qui a évolué au fil des opportunités : partie du secteur de l'édition, je me suis progressivement dirigée vers le digital et l'UX, puis formée au développement fullstack (React, Node.js, API REST) pour devenir Product Owner.
  
