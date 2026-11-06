@@ -1,5 +1,5 @@
 <div align="center">
-<img src='https://github.com/EdenSahile/EdenSahile/blob/main/img/1729276544440.jpeg' width="300px">
+<img src='https://github.com/EdenSahile/EdenSahile/blob/main/img/eden-sahile-ai-product-builder.PNG' width="300px">
   </div>
 
 
