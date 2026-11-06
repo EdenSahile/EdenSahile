@@ -7,46 +7,33 @@
 
 ### Qui suis-je ?
   
-✨ **Product Owner IA** ✨ avec un parcours qui mêle édition, digital, UX et développement fullstack (React, Node.js, API REST). Cette double casquette produit + technique me permet de concevoir des produits intégrant l'IA, de piloter des agents IA de développement et de dialoguer efficacement avec les équipes techniques.
+✨ **AI Product Builder** ✨. Je conçois et je construis des produits qui s’appuient sur des LLM : agents avec appel d’outils, recherche documentaire (RAG), automatisations métier.
  
-🤖 Je conçois et construis des outils intégrant des LLM, du RAG et des workflows d'automatisation, avec une attention particulière à la fiabilité (détection d'hallucinations, tests, CI).
+Product Owner depuis 2023, formée au développement fullstack (React, Node.js, API REST), avec vingt ans en entreprise derrière. Ce qui me différencie : je ne me contente pas de spécifier, je construis. Et je vérifie ce que produit l’IA plutôt que de lui faire confiance : détection d’hallucinations, tests, intégration continue.
  
-## 🚀 Mon approche
+## 🚀 Projets
  
-Ce qui me différencie : je ne me contente pas de spécifier, je construis. Mon bagage technique (formation fullstack, scripts d'automatisation, pilotage d'agents IA) me permet de prototyper, tester et livrer des produits fonctionnels, tout en gardant le cap sur la valeur métier et l'expérience utilisateur.
+- StoryPilot AI · transforme un brief métier en user stories structurées, critères d’acceptation et scénarios Gherkin, à partir d’une base documentaire (API Claude, RAG, Pinecone). Utilisé dans ma pratique de PO et par deux collègues. Démo
 
-💡 **En résumé :** Product Owner qui conçoit et construit avec l'IA, pas à côté.
- 
-## 🛠️ Mes compétences
- 
-### 🎯 Produit & Agilité
- 
-* Scrum (certifiée), Kanban
-* User stories, backlog, priorisation valeur business
-* Recette & qualité : tests fonctionnels, validation livrables
-* Wireframes, prototypes (Figma)
-* Conduite du changement (formation des utilisateurs, modes d'emploi)
+- Agent de service client · agent conversationnel n8n piloté par Claude : recherche documentaire sur Google Drive, appel d’outils (Sheets, Gmail, Slack, Agenda), mémoire de conversation et passage de relais à un humain. Testé de bout en bout.
 
-### 🤖 IA & Automatisation
+- FlowDiff · application B2B de commande de livres pour libraires, construite avec Claude Code : règles de remises, TVA, disponibilité, simulation EDI. Données de démonstration. Démo
 
-* Claude (API, Code), pilotage d'agents IA de développement
-* LLM, RAG, génération structurée
-* Make, n8n
-* Scripts JavaScript d'extraction et de traitement de données
+- Maison Buna · outil de devis sur mesure pour une marque de café : parcours entreprise et particulier, tarification, génération PDF, notifications. Mission client livrée et facturée.
 
-### 💻 Culture technique
+- Mímir · assistant personnel IA, en cours de développement. Socle applicatif, authentification, workflow Claude Code avec règles, skills et agents de test et de revue.
  
-* React, TypeScript, Node.js, API REST, PostgreSQL
-* Git, GitHub
-* Lecture et revue de code
-
-### 🚀 Projets IA
- 
-* **StoryPilot AI** : transforme un brief métier en user stories structurées (critères d'acceptation, scénarios Gherkin) à partir d'une base de connaissances (LLM, RAG) ; utilisé dans ma pratique de PO et par deux collègues. [github.com/EdenSahile/StoryPilot-ai](https://github.com/EdenSahile/StoryPilot-ai)
-* **Mimir** : application construite en pilotant des agents IA de développement (Claude Code), avec workflow TDD, CI et architecture modulaire. [github.com/EdenSahile/Mimir](https://github.com/EdenSahile/Mimir)
-* **Maison Buna** : application B2B de génération de devis pour un torréfacteur, avec génération de documents et automatisations. [github.com/EdenSahile/maison-buna-demo](https://github.com/EdenSahile/maison-buna-demo)
-
 ---
+
+## 🛠️ Compétences
+
+- IA & automatisation · API Claude, agents avec appel d’outils (n8n), RAG, embeddings, Pinecone, diagnostic et correction d’hallucinations, Make, scripts JavaScript
+
+- Développement assisté par IA · Claude Code : règles, skills, hooks, agents de test et de revue
+
+- Technique · React, TypeScript, Node.js, API REST, PostgreSQL, Git/GitHub, lecture et revue de code
+
+- Produit & agilité · Scrum, Kanban, user stories, backlog, priorisation, recette, wireframes et prototypes (Figma), conduite du changement
 
 <p align="center">📫 Me contacter</p>
 <p align="center"><a href="mailto:edensahile.pro@gmail.com">edensahile.pro@gmail.com</a></p>
