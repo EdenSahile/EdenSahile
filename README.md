@@ -23,7 +23,7 @@ Product Owner depuis 2023, formée au développement fullstack (React, Node.js, 
 
 - Mímir · assistant personnel IA, en cours de développement. Socle applicatif, authentification, workflow Claude Code avec règles, skills et agents de test et de revue.
  
----
+
 
 ## 🛠️ Compétences
 
